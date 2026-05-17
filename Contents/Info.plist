@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleName</key>
+  <string>WaterTracker</string>
+  <key>CFBundleDisplayName</key>
+  <string>💧 Hydration Tracker</string>
+  <key>CFBundleIdentifier</key>
+  <string>com.local.hydration-tracker</string>
+  <key>CFBundleVersion</key>
+  <string>2.0</string>
+  <key>CFBundlePackageType</key>
+  <string>APPL</string>
+  <key>CFBundleExecutable</key>
+  <string>WaterTracker</string>
+  <key>CFBundleIconFile</key>
+  <string>AppIcon</string>
+  <key>NSHighResolutionCapable</key>
+  <true/>
+  <key>LSUIElement</key>
+  <false/>
+  <key>NSUserNotificationAlertStyle</key>
+  <string>alert</string>
+  <key>NSAppleEventsUsageDescription</key>
+  <string>Used to send hydration reminder notifications.</string>
+</dict>
+</plist>
