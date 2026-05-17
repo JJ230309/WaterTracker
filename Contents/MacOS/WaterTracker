@@ -1,3 +1,0 @@
-#!/bin/bash
-RESOURCES="$(dirname "$0")/../Resources"
-exec /usr/local/bin/python3.14 "$RESOURCES/watertracker.py"
